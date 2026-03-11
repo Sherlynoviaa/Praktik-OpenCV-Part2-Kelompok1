@@ -52,7 +52,7 @@ Implementasi tugas akhir berupa pembuatan filter biru transparan yang dapat diga
 
 ## Video Presentasi
 Penjelasan detail mengenai proses koding, analisis kode, dan hasil praktik dapat dilihat pada video YouTube kami berikut:
-👉 [Masukkan Link YouTube Anda di Sini]
+👉 [https://youtu.be/tILiQoA3hy8?si=N2e1PPVq_qoPHxAb]
 
 ---
 
