@@ -1,0 +1,1 @@
+# Praktik-OpenCV-Part2-Kelompok1
